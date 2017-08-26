@@ -1,0 +1,144 @@
+* {
+	font-family: Philosopher;
+}
+html {
+		
+	background-image: url(assets/images/white-wood.jpg);
+}
+
+#wrapper {
+	color: white;
+	width: 960px;
+	margin: auto;
+	background: transparent;
+	font-family: Philosopher;
+
+}
+
+#name-link {
+	font-size: 40px;
+}
+#header {
+	
+	margin-top: 25px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+
+	}
+
+	ul li a {
+		font-size: 20px;
+	}
+#row-1 {
+	margin-top: 45px;
+	
+}
+
+#portfolio-box {
+	border: solid 1px;
+	font-family: Philosopher;
+	margin-bottom: 40px;
+	background-color: #666666;
+	color: ;
+}
+
+#portfolio-container {
+	margin-top: 30px;
+	
+}
+
+.card-img-top {
+	height: 125px;
+	width: 125px;
+}
+
+#project-labels  {
+	color: white;
+	text-align: center;
+	background-color: #800020;
+	font-size: 24px;
+}
+
+
+
+#main-content {
+	float:left;
+	line-height: 2.0;
+}
+#footer {
+	top: 100%;
+	text-align: center;
+	background-color: #666666;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 40px;
+	border-top: 5px solid #800020;
+	color: white;
+	font-family: Philosopher;
+	font-size: 16px;
+	
+}
+
+#img-box{
+	float:left;
+	
+
+}
+
+
+
+#photo-1 {
+	height: 150px;
+	width: 150px;
+}
+
+
+#img-prg-box {
+	display: inline-block;
+	float: left;
+	margin-top:30px;
+	margin-bottom: 30px;
+
+}
+
+a img {
+	height: 50px;
+	width: 50px;
+}
+
+#github-icon {
+	display: inline-block;
+}
+
+#linkedin-icon {
+	display: inline-block;
+}
+
+#stack-icon {
+	display: inline-block;
+}
+
+#social-box {
+	float: left;
+	border: solid 1px;
+	margin-left: 80px;
+	background-color: #666666;
+	color: white;
+	font-family: Philosopher;
+
+}
+
+#icon-links {
+	margin-top: 40px;
+	margin-bottom: 71px;
+}
+
+#icon-list {
+	padding-left: 8%;
+}
+
+#sidebar-header {
+	
+}
+
+
