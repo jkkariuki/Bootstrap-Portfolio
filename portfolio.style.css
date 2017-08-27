@@ -35,7 +35,7 @@ html {
 }
 
 #portfolio-box {
-	border: solid 1px;
+	border: solid 3px #800020;
 	font-family: Philosopher;
 	margin-bottom: 40px;
 	background-color: #666666;
@@ -120,7 +120,7 @@ a img {
 
 #social-box {
 	float: left;
-	border: solid 1px;
+	border: solid 3px #800020;
 	margin-left: 80px;
 	background-color: #666666;
 	color: white;

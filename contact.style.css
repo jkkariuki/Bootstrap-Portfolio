@@ -30,9 +30,8 @@ html {
     
 }
 
-#form-container{
-    border: solid 1px;
-    margin-right: 
+#form-container {
+    border: solid 3px #800020;
     margin-bottom: 40px;
     background-color: #666666;
     color: black;
@@ -122,9 +121,8 @@ a img {
 
 #social-box {
     float: left;
-    border: solid 1px;
+    border: solid 3px #800020;
     margin-left: 80px;
-    margin-top:30px;
     background-color: #666666;
     color: white;
     font-family: Philosopher
@@ -146,6 +144,8 @@ a img {
 
 #about-header {
     color: white;
+
 }
+
 
 
